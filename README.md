@@ -26,6 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <h3> Stage 1: Ticket Submission
+ The ticket lifecycle starts with the ticket submission wherea user sumbits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
   
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
