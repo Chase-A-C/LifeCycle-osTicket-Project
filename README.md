@@ -29,7 +29,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
 
-![image alt]
+<img width="308" height="45" alt="image" src="https://github.com/user-attachments/assets/88ba0210-af8d-4418-9acf-ef6b0a615f69" />
+
 
 
 ![image alt]
