@@ -27,14 +27,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3> Stage 1: Ticket Submission
  
-  The ticket lifecycle starts with the ticket submission wherea user sumbits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
+   The ticket lifecycle starts with the ticket submission wherea user sumbits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
   
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
- The user will then give an issue summary to the best of their ability, in this case the online banking system is down and users are unable to access online banking
+   The user will then give an issue summary to the best of their ability, in this case the online banking system is down and users are unable to access online banking
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.png)
 
- The user will then submit the ticket
+   The user will then submit the ticket
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.5.png)
 
 <h3> Stage 2: Logging in as Help Desk Agent (read only)
