@@ -29,60 +29,58 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
 
-https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.png
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.png)
 
 
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.5.png)
 
 
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto10.png)
 
 
-![image alt]
+![image alt]()
 
 
-![image alt]
-
-
-![image alt]
+![image alt]()
