@@ -25,10 +25,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h3> Stage 1: Ticket Submission
- 
-
 ---------------------------------------------------------------------------------------------------
+
+<h3> Stage 1: Ticket Submission
    
 The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and choosing a help topic from the drop down list.
 ![photo1](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
@@ -42,7 +41,7 @@ The user will then submit the ticket.
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 2: Logging in as Help Desk Agent (read only)
+<h3> Stage 2- Logging in as Help Desk Agent (read only):
  
 The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
 ![photo3](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/35b773ae6e643f4a097d7d70a2976f193d6dc2c8/projectphoto3.png)
