@@ -45,11 +45,11 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
 
   ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.5.png)
 
-<h3> Stage 2: Logging in as Help Desk Agent (read only)
-
 
 ---------------------------------------------------------------------------------------------------
-   
+
+<h3> Stage 2: Logging in as Help Desk Agent (read only)
+ 
  The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
  <p align="center">
 
