@@ -30,10 +30,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3> Stage 1 - Ticket Submission:
    <p></p>
 The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and choosing a help topic from the drop down list.
+
 ![photo1](/projectphoto1.png)
 
 The user will then give an "issue summary" to the best of their ability, in this case the online banking system is down and users are unable to access online banking.
-![iphoto2](/projectphoto2.png)
+![photo2](/projectphoto2.png)
 
 The user will then submit the ticket.
 ![photo2.5](/projectphoto2.5.png)
@@ -44,7 +45,8 @@ The user will then submit the ticket.
 <h3> Stage 2 - Logging in as Help Desk Agent (read only): 
     <p></p>
 The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
-![photo3](/projectphoto3.png)
+
+   ![photo3](/projectphoto3.png)
 
 Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. 
 <br>
@@ -107,9 +109,11 @@ On the dashboard you'll see the update to the information posted successfully al
 <h3> Stage 4 - Ticket Resolution:
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
-![photo9](/projectphoto9.png)
+
+   ![photo9](/projectphoto9.png)
 
 After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
+
 ![photo9.5](projectphoto9.5.png)
 
 
@@ -128,7 +132,7 @@ A confirmation will show up and you can add a reason as to why the ticket was cl
 <br>
 (This should be done in professional enviroments)
 <br>
-![photo11](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/main/projectphoto11.png)
+![photo11](/projectphoto11.png)
 
 
 ---------------------------------------------------------------------------------------------------
