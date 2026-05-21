@@ -107,7 +107,7 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 
 ---------------------------------------------------------------------------------------------------
 
-<br> Step 5: Ticket Closure:
+<h3> Step 5: Ticket Closure:
 
 
 We're going to close the ticket now by clicking "status"
@@ -116,9 +116,11 @@ We're going to close the ticket now by clicking "status"
 We click "closed" to close the ticket
 ![photo10,5](/projectphoto10.5.png)
 
-A confirmation will show up and you can add a reason as to why the ticket was closed. (This should be done in professional enviroments) 
-![photo11](/projectphoto11.png)
 
+A confirmation will show up and you can add a reason as to why the ticket was closed. 
+
+This should be done in professional enviroments 
+![photo11](
 
 
 ---------------------------------------------------------------------------------------------------
