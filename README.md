@@ -75,10 +75,10 @@ We'll log in as an Administrator next
    We use Sev-A because it will mark it as top priority in the ticket system
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.png)
 
-We're gonna add a note as to why it was escalated 
+We're going to add a note as to why it was escalated 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.5.png)
 
-   We are gonna return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress
+   We are going to return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress
    We do this to keep our users up to date on any time-line or issues that may arise in our investigation
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
