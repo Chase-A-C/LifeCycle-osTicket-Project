@@ -73,10 +73,10 @@ We're gonna change some things to help the process of working the ticket startin
 
 We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for Employees and most importantly Account holders who are unable to access their accounts 
 
-![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.png)
-
-
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.5.png)
+
+
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.png)
 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.png)
