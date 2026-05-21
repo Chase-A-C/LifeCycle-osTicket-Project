@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ---------------------------------------------------------------------------------------------------
 
 <h3> Stage 1 - Ticket Submission:
-   
+   <p></p>
 The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and choosing a help topic from the drop down list.
 ![photo1](/projectphoto1.png)
 
@@ -41,9 +41,8 @@ The user will then submit the ticket.
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 2 - Logging in as Help Desk Agent (read only):
-
-
+<h3> Stage 2 - Logging in as Help Desk Agent (read only): 
+    <p></p>
 The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
 ![photo3](/projectphoto3.png)
 
@@ -66,8 +65,7 @@ Once this is submitted, you'll see the ticket thread has been updated.
 ---------------------------------------------------------------------------------------------------
 
 <h3> Stage 3 - Logging in is as Help Desk Agent to resolve the ticket (Administrator):
-
-
+   <p></p>
 We're goning to log in as an Administrator because they have more access to help resolve the ticket.
 <br>
 We could also give John more access as an alternative option.
@@ -107,8 +105,7 @@ On the dashboard you'll see the update to the information posted successfully al
 ---------------------------------------------------------------------------------------------------
 
 <h3> Stage 4 - Ticket Resolution:
-
-
+   <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 ![photo9](/projectphoto9.png)
 
@@ -119,8 +116,7 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 ---------------------------------------------------------------------------------------------------
 
 <h3> Step 5 - Ticket Closure:
-
-
+   <p></p>
 We're going to close the ticket now by clicking "status"
 ![photo10](/projectphoto10.png)
 
@@ -136,8 +132,8 @@ A confirmation will show up and you can add a reason as to why the ticket was cl
 
 
 ---------------------------------------------------------------------------------------------------
-
-Side note: Mistakes I made and thought may needed fixed
+---------------------------------------------------------------------------------------------------
+Side note: Mistakes I made and thought may need fixed 
  
 I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
 ![photo11.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projecthoto11.5.png)
