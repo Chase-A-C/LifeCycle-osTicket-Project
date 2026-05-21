@@ -116,6 +116,8 @@ We're going to add a note as to why it was escalated.
  ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto11.png)
 
 
+
+
 Side note: Mistakes I made and though may needed fixed
  
  I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
