@@ -41,15 +41,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    
    The Agent John will log in with his credentials from the Help Desk Agent Access Portal
+
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/lob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
 
    Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked       and resolved. 
    We're going to click on the most recent ticket created by Karen.
+
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
 
   After clicking on the ticket, it will show some more detailed information such as its priority level, status, SLA level, topic etc... 
   (you'll notice these are just black text and not blue) 
   John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
+  
   We'll log in as an Administrator next.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
