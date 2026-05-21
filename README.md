@@ -49,7 +49,8 @@ Once John is logged in, osTicket will show a dashboard of open tickets of varyin
 
 After clicking on the ticket it will show some more detailed information such as it's priority level, status, SLA level, topic etc... 
 (you'll notice these are just black text and not blue) 
-John has read only acess so he's not able to change these or escelate them, however we're gonna leave a not one the ticket that it needs to be updated
+John has read only access so he's not able to change these or escelate them, however we're gonna leave a not one the ticket that it needs to be updated
+We'll log in as an Administrator next
 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
@@ -60,11 +61,17 @@ Once this is submitted, you'll see the ticket thread has been updated
 
 <h3> Logging is as Help Dest Agent (Administrator)
 
+We're gonna log in as an Administrator because they have more access to help resolve the ticket; we could also give John more access as another choice
+
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.png)
 
+You'll see mostly the same information with any updates to the ticket that were made. 
+We also as an Administrator have more access so you'll notive the additional option via the Blue colored text that was black text for John
+We're gonna change some things to help the process of working the ticket starting with the "Priority level"
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.5.png)
 
+We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for Employees and most importantly Account holders who are unable to access their accounts 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.png)
 
