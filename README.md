@@ -50,7 +50,7 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
  
  The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
 
-
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/35b773ae6e643f4a097d7d70a2976f193d6dc2c8/projectphoto3.png)
 
 Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. We're going to click on the most recent ticket created by Karen.
 
