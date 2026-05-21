@@ -93,7 +93,6 @@ Stage 4: Ticket Resolution:
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
 
  After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well as instructions for account  holders that may ask for help or call in for help.
- 
  We also let Karen know if anyother issues arise or persists that she can open a new ticket
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.5.png)
 
@@ -106,8 +105,7 @@ Step 5: Ticket Closure:
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto10.5.png)
 
  A confirmation will show up and you can add a reason as to why the ticket was closed (this should be done in proffessional enviroments)
-
-  We add "Account Holder Issue Resolved" because account holders are able to access online banking again
+ We add "Account Holder Issue Resolved" because account holders are able to access online banking again
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto11.png)
 
 
