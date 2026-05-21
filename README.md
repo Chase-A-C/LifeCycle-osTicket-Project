@@ -124,6 +124,7 @@ We add "Account Holder Issue Resolved" because account holders are able to acces
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/d0cd0c238776524aa2dcfdd79e42196635b3d250/projectphoto11.png)
 
 
+
 ---------------------------------------------------------------------------------------------------
 
 Side note: Mistakes I made and thought may needed fixed
