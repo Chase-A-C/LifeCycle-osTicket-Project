@@ -55,7 +55,7 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
 
   ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/lob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
 
- Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. We're going to click on the most recent ticket created by Karen.
+Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. We're going to click on the most recent ticket created by Karen.
 <p align="center">
 
  ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
@@ -65,10 +65,9 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
   John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
  
  We'll log in as an Administrator next.
- <p align="center">
+ <p align="center"> 
 
   ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
-
 
  Once this is submitted, you'll see the ticket thread has been updated.
 <p align="center">
@@ -136,7 +135,7 @@ Here we update Karen that our team has isolated the issue and are working on mak
 
  ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
 
-After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well as instructions for account holders that may ask for help or call in for help.
+After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well.
  We also let Karen know if anyother issues arise or persist that she can open a new ticket.
  <p align="center">
  
@@ -168,7 +167,7 @@ We add "Account Holder Issue Resolved" because account holders are able to acces
 
 ---------------------------------------------------------------------------------------------------
 
-Side note: Mistakes I made and though may needed fixed
+Side note: Mistakes I made and thought may needed fixed
  
  I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projecthoto11.5.png)
