@@ -112,7 +112,7 @@ We're going to add a note as to why it was escalated.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto10.5.png)
 
  A confirmation will show up and you can add a reason as to why the ticket was closed. 
- (this should be done in professional enviroments)
+ (This should be done in professional enviroments)
  We add "Account Holder Issue Resolved" because account holders are able to access online banking again.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto11.png)
 
