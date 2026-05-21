@@ -55,8 +55,8 @@ After clicking on the ticket, it will show some more detailed information such a
 John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
- Once this is submitted, you'll see the ticket thread has been updated.
- ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.5.png)
+Once this is submitted, you'll see the ticket thread has been updated.
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.5.png)
 
 
 ---------------------------------------------------------------------------------------------------
@@ -90,13 +90,14 @@ We are going to return to the dashboard as Chase and update Karen letting her kn
  We do this to keep our users up to date on any time-line or issues that may arise in our investigation.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
- n the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
+ On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
 
 ---------------------------------------------------------------------------------------------------
 
 <h3> Stage 4: Ticket Resolution:
+
 
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
