@@ -86,10 +86,10 @@ We're going to add a note as to why it was escalated.
 ![photo7.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.5.png)
 
 We are going to return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress.
- We do this to keep our users up to date on any time-line or issues that may arise in our investigation.
+We do this to keep our users up to date on any time-line or issues that may arise in our investigation.
 ![photo8](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
- On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
+On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
 ![photo8.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
 
@@ -101,14 +101,14 @@ We are going to return to the dashboard as Chase and update Karen letting her kn
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 ![photo9](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
 
-After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well.
+After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
 We also let Karen know if anyother issues arise or persist that she can open a new ticket.
 ![photo9.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.5.png)
 
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Step 5: Ticket Closure:
+<br> Step 5: Ticket Closure:
 
 
 We're going to close the ticket now by clicking "status"
@@ -117,9 +117,7 @@ We're going to close the ticket now by clicking "status"
 We click "closed" to close the ticket
 ![photo10,5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto10.5.png)
 
-A confirmation will show up and you can add a reason as to why the ticket was closed. 
-This should be done in professional enviroments)
-We add "Account Holder Issue Resolved" because account holders are able to access online banking again.
+A confirmation will show up and you can add a reason as to why the ticket was closed. (This should be done in professional enviroments) 
 ![photo11](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/d0cd0c238776524aa2dcfdd79e42196635b3d250/projectphoto11.png)
 
 
