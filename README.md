@@ -121,7 +121,7 @@ We click "closed" to close the ticket
 A confirmation will show up and you can add a reason as to why the ticket was closed. 
 This should be done in professional enviroments)
 We add "Account Holder Issue Resolved" because account holders are able to access online banking again.
-![image alt]
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/d0cd0c238776524aa2dcfdd79e42196635b3d250/projectphoto11.png)
 
 
 ---------------------------------------------------------------------------------------------------
