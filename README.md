@@ -118,7 +118,6 @@ We click "closed" to close the ticket
 
 
 A confirmation will show up and you can add a reason as to why the ticket was closed. 
-
 This should be done in professional enviroments 
 ![photo11](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/main/projectphoto11.png)
 
