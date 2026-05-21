@@ -31,13 +31,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    <p></p>
 The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and choosing a help topic from the drop down list.
 
-![photo1](/projectphoto1.png)
+![photo1]()
 
 The user will then give an "issue summary" to the best of their ability, in this case the online banking system is down and users are unable to access online banking.
-![photo2](/projectphoto2.png)
+![photo2]()
 
 The user will then submit the ticket.
-![photo2.5](/projectphoto2.5.png)
+![photo3]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -46,22 +46,22 @@ The user will then submit the ticket.
     <p></p>
 The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
 
-   ![photo3](/projectphoto3.png)
+   ![photo4]()
 
 Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. 
 <br>
 We're going to click on the most recent ticket created by Karen.
-![photo3.5](/projectphoto3.5.png)
+![photo5]()
 
 After clicking on the ticket, it will show some more detailed information such as its priority level, status, SLA level, topic etc...
 <br>
 (You'll notice these are just black text and not blue)
 <br>
 John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
-![photo4](/projectphoto4.png)
+![photo6]()
 
 Once this is submitted, you'll see the ticket thread has been updated.
-![photo4.5](/projectphoto4.5.png)
+![photo7]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -71,37 +71,37 @@ Once this is submitted, you'll see the ticket thread has been updated.
 We're goning to log in as an Administrator because they have more access to help resolve the ticket.
 <br>
 We could also give John more access as an alternative option.
-![photo5](/projectphoto5.png)
+![photo8]()
 
 You'll see mostly the same information with any updates to the ticket that were made. 
 <br>
 We also as an Administrator have more access so you'll notice the additional option via the Blue colored text that was black text for John.
 <br>
 We're gonna change some things to help the process of working the ticket starting with the "Priority level".
-![ohoto5.5](/projectphoto5.5.png)
+![ohoto9]()
 
 We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for employees and most importantly Account holders who are unable to
  access their accounts. 
-![photo6.5](/projectphoto6.5.png)
+![photo10]()
 
 We're also going to assign it to our Administrator Chase. 
-![photo6](/projectphoto6.png)
+![photo11]()
 
 We need to update the priority so the ticket and thus the issue get's resolved as soon as possible.
 <br>
 We use Sev-A because it will mark it as top priority in the ticket system.
-![photo7](/projectphoto7.png)
+![photo12]()
 
 We're going to add a note as to why it was escalated. 
-![photo7.5](/projectphoto7.5.png)
+![photo13]()
 
 We are going to return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress.
 <br>
 We do this to keep our users up to date on any time-line or issues that may arise in our investigation.
-![photo8](/projectphoto8.png)
+![photo13]()
 
 On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
-![photo8.5](/projectphoto8.5.png)
+![photo14]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -110,11 +110,11 @@ On the dashboard you'll see the update to the information posted successfully al
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 
-   ![photo9](/projectphoto9.png)
+   ![photo15]()
 
 After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
 
-![photo9.5](projectphoto9.5.png)
+![photo16]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -122,17 +122,17 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 <h3> Step 5 - Ticket Closure:
    <p></p>
 We're going to close the ticket now by clicking "status"
-![photo10](/projectphoto10.png)
+![photo17]()
 
 We click "closed" to close the ticket
-![photo10,5](/projectphoto10.5.png)
+![photo18]()
 
 
 A confirmation will show up and you can add a reason as to why the ticket was closed. 
 <br>
 (This should be done in professional enviroments)
 <br>
-![photo11](/projectphoto11.png)
+![photo19]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ A confirmation will show up and you can add a reason as to why the ticket was cl
 Side note: Mistakes I made and thought may need fixed 
  
 I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
-![photo11.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projecthoto11.5.png)
+![20]()
 
 Added as an update as I changed the closure type from "resolved" to "closed"
-![photo12](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto12.png)
+![photo21]()
