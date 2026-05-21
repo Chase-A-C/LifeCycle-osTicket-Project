@@ -126,8 +126,10 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
 
   ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
-<h3> Stage 4: Ticket Resolution:
 
+---------------------------------------------------------------------------------------------------
+
+<h3> Stage 4: Ticket Resolution:
 
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 <p align="center">
