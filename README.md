@@ -103,7 +103,7 @@ Here we update Karen that our team has isolated the issue and are working on mak
 
 After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
 We also let Karen know if anyother issues arise or persist that she can open a new ticket.
-![photo9.5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.5.png)
+![photo9.5](projectphoto9.5.png)
 
 
 ---------------------------------------------------------------------------------------------------
