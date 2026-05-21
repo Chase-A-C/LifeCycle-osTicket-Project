@@ -51,7 +51,7 @@ Once John is logged in, osTicket will show a dashboard of open tickets of varyin
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
 
 After clicking on the ticket, it will show some more detailed information such as its priority level, status, SLA level, topic etc... 
-(you'll notice these are just black text and not blue) 
+(You'll notice these are just black text and not blue) 
 John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
