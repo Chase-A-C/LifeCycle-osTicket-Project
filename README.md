@@ -81,7 +81,7 @@ We're going to add a note as to why it was escalated
    We do this to keep our users up to date on any time-line or issues that may arise in our investigation
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
- On the dahboard you'll see the update to the information posted successfully along with all updates made
+ On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
  Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
