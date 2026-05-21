@@ -27,14 +27,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3> Stage 1: Ticket Submission
  
-   The ticket lifecycle starts with the ticket submission wherea user sumbits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
+   The ticket lifecycle starts with the ticket submission where a user submits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
   
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
    The user will then give an issue summary to the best of their ability, in this case the online banking system is down and users are unable to access online banking
+
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.png)
 
+   
    The user will then submit the ticket
+   
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.5.png)
 
 <h3> Stage 2: Logging in as Help Desk Agent (read only)
@@ -43,47 +46,53 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
 
-Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determned by the employer SLA (Serevice Level Agreement) that need to be worked and resolved. We're gonna click on the most recent ticket created by Karen
+   Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. We're going to click on the most recent ticket created by Karen
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
 
-After clicking on the ticket it will show some more detailed information such as it's priority level, status, SLA level, topic etc... 
+   After clicking on the ticket it will show some more detailed information such as its priority level, status, SLA level, topic etc... 
 (you'll notice these are just black text and not blue) 
-John has read only access so he's not able to change these or escelate them, however we're gonna leave a not one the ticket that it needs to be updated
+John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated
 We'll log in as an Administrator next
 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
-Once this is submitted, you'll see the ticket thread has been updated
+   Once this is submitted, you'll see the ticket thread has been updated
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.5.png)
 
-<h3> Logging is as Help Dest Agent (Administrator)
+<h3> Logging in is as Help Desk Agent (Administrator)
 
-We're gonna log in as an Administrator because they have more access to help resolve the ticket; we could also give John more access as another choice
+   We're goning to log in as an Administrator because they have more access to help resolve the ticket; we could also give John more access as another choice
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.png)
 
-You'll see mostly the same information with any updates to the ticket that were made. 
-We also as an Administrator have more access so you'll notive the additional option via the Blue colored text that was black text for John
-We're gonna change some things to help the process of working the ticket starting with the "Priority level"
+   You'll see mostly the same information with any updates to the ticket that were made. 
+   We also as an Administrator have more access so you'll notice the additional option via the Blue colored text that was black text for John
+   We're gonna change some things to help the process of working the ticket starting with the "Priority level"
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.5.png)
 
-We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for Employees and most importantly Account holders who are unable to access their accounts 
+   We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for employees and most importantly Account holders who are unable to access their accounts 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.5.png)
 
+   We're also going to assign it to our Administrator Chase 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto6.png)
 
+   We need to update the priority so the ticket and thus the issue get's resolved as soon as possible
+   We use Sev-A because it will mark it as top priority in the ticket system
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.png)
 
+We're gonna add a note as to why it was escalated 
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto7.5.png)
 
+   We are gonna return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress
+   We do this to keep our users up to date on any time-line or issues that may arise in our investigation
 
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.png)
 
