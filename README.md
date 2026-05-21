@@ -27,36 +27,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3> Stage 1: Ticket Submission
  
-   The ticket lifecycle starts with the ticket submission where a user submits a support ticket filling in their E-mail address, name and choosing help topic from the drop down list
+   The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and choosing a help topic from the drop down list.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/c94c42d5c20397e85ab22bfd1a34216383f17193/projectphoto1.png)
 
-   The user will then give an issue summary to the best of their ability, in this case the online banking system is down and users are unable to access online banking
+   The user will then give an "issue summary" to the best of their ability, in this case the online banking system is down and users are unable to access online banking.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.png)
 
-   
-   The user will then submit the ticket
+   The user will then submit the ticket.
    ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto2.5.png)
 
 <h3> Stage 2: Logging in as Help Desk Agent (read only)
 
-   The Agent John will log in with his credentials from the Help Desk agent access portal
-![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
+   The Agent John will log in with his credentials from the Help Desk Agent Access Portal
+![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/lob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.png)
 
-   Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. We're going to click on the most recent ticket created by Karen
+   Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked       and resolved. 
+   We're going to click on the most recent ticket created by Karen.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto3.5.png)
 
-   After clicking on the ticket it will show some more detailed information such as its priority level, status, SLA level, topic etc... 
-(you'll notice these are just black text and not blue) 
-John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated
-We'll log in as an Administrator next
+  After clicking on the ticket, it will show some more detailed information such as its priority level, status, SLA level, topic etc... 
+  (you'll notice these are just black text and not blue) 
+  John has read-only access so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
+  We'll log in as an Administrator next.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.png)
 
-   Once this is submitted, you'll see the ticket thread has been updated
+
+   Once this is submitted, you'll see the ticket thread has been updated.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto4.5.png)
 
-<h3> Logging in is as Help Desk Agent (Administrator)
 
-   We're goning to log in as an Administrator because they have more access to help resolve the ticket; we could also give John more access as another choice
+
+<h3> Stage 3: Logging in is as Help Desk Agent to resolve the ticket (Administrator)
+
+   We're goning to log in as an Administrator because they have more access to help resolve the ticket; we could also give John more access as another option.
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto5.png)
 
    You'll see mostly the same information with any updates to the ticket that were made. 
@@ -84,12 +87,16 @@ We're going to add a note as to why it was escalated
  On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto8.5.png)
 
+Stage 4: Ticket Resolution:
+
  Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.png)
 
  After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well as instructions for account  holders that may ask for help or call in for help.
  We also let Karen know if anyother issues arise or persists that she can open a new ticket
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto9.5.png)
+
+Step 5: Ticket Closure:
 
  We're going to close the ticket now by clicking "status"
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4f55eb2f997ee4b15376c0cee78682e98c66ee05/projectphoto10.png)
@@ -101,6 +108,9 @@ We're going to add a note as to why it was escalated
 We add "Account Holder Issue Resolved" because account holders are able to access online banking again
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projectphoto11.png)
 
+
+Side note: Mistakes I made and fixed
+ 
  I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
 ![image alt](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/67b8ddab2d82b1205f12fb39d22213c6a71904ee/projecthoto11.5.png)
 
