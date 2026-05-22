@@ -111,7 +111,7 @@ On the dashboard you'll see the update to the information posted successfully al
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 
-   ![photo16](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto16.png)
+![photo16](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto16.png)
 
 After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
 
@@ -121,10 +121,10 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 ---------------------------------------------------------------------------------------------------
 
 <h3> Step 5 - Ticket Closure:
-   <p></p>
-We're going to close the ticket now by clicking "status"
+<p></p>
+We're going to close the ticket now by clicking "status
 
-   ![photo18](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto18.png)
+![photo18](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/fa3e02b82847459fd7d189e9baa70ec21f173d1c/projectphoto18.png)
 
 We click "closed" to close the ticket
 ![photo19](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto19.png)
@@ -139,11 +139,11 @@ A confirmation will show up and you can add a reason as to why the ticket was cl
 
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
-Side note: Mistakes I made and thought may need fixed 
+Side note - Mistakes I made and thought may need fixed: 
  
 I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
-
-![21](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto21.png)4a/projectphoto21.png
+<br>
+![photo21](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto21.png)
 
 Added as an update as I changed the closure type from "resolved" to "closed"
 ![photo22](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto22.png)
