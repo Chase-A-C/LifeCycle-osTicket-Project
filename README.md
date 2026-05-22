@@ -98,10 +98,10 @@ We're going to add a note as to why it was escalated.
 We are going to return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress.
 <br>
 We do this to keep our users up to date on any time-line or issues that may arise in our investigation.
-![photo13]()
+![photo14]()
 
 On the dashboard you'll see the update to the information posted successfully along with all updates made during the working to resolution of the ticket.
-![photo14]()
+![photo15]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -110,11 +110,11 @@ On the dashboard you'll see the update to the information posted successfully al
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 
-   ![photo15]()
+   ![photo16]()
 
 After we have fixed the issue, we let Karen know that we'll be pushing an update out and the steps needed to apply the update to the system as well. 
 
-![photo16]()
+![photo17]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -122,17 +122,17 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 <h3> Step 5 - Ticket Closure:
    <p></p>
 We're going to close the ticket now by clicking "status"
-![photo17]()
+![photo18]()
 
 We click "closed" to close the ticket
-![photo18]()
+![photo19]()
 
 
 A confirmation will show up and you can add a reason as to why the ticket was closed. 
 <br>
 (This should be done in professional enviroments)
 <br>
-![photo19]()
+![photo20]()
 
 
 ---------------------------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ A confirmation will show up and you can add a reason as to why the ticket was cl
 Side note: Mistakes I made and thought may need fixed 
  
 I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
-![20]()
+![21]()
 
 Added as an update as I changed the closure type from "resolved" to "closed"
-![photo21]()
+![photo22]()
