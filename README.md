@@ -34,10 +34,9 @@ The ticket lifecycle starts with the "ticket submission" where a user submits a 
 ![photo1](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto1.png)
 
 The user will then give an "issue summary" to the best of their ability, in this case the online banking system is down and users are unable to access online banking.
+The user will then submit the ticket.
 ![photo2](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4d5025fcf7f35f44528f7e4bb15625276ad53ed0/projectphoto2.png)
 
-The user will then submit the ticket.
-![photo3](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto3.png)
 
 
 ---------------------------------------------------------------------------------------------------
