@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 1 - Ticket Submission:
+<h3> Stage 1 - Ticket Submission:<h3></h3>
    <p></p>
 The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and then choose a help topic from the drop down list.
 
@@ -42,7 +42,7 @@ The user will then submit the ticket.
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 2 - Logging in as Help Desk Agent (read only): 
+<h3> Stage 2 - Logging in as Help Desk Agent (read only):<h3></h3> 
     <p></p>
 The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
 
@@ -66,7 +66,7 @@ Once this is submitted, you'll see the ticket thread has been updated.
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 3 - Logging in is as Help Desk Agent to resolve the ticket (Administrator):
+<h3> Stage 3 - Logging in is as Help Desk Agent to resolve the ticket (Administrator):<h3></h3>
    <p></p>
 We're goning to log in as an Administrator now because they have more access to help resolve the ticket.
 <br>
@@ -109,7 +109,7 @@ On the dashboard you'll see the update to the information posted successfully, a
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 4 - Ticket Resolution:
+<h3> Stage 4 - Ticket Resolution:<h3></h3>
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 
@@ -121,7 +121,7 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Step 5 - Ticket Closure:
+<h3> Step 5 - Ticket Closure:<h3></h3>
 <p></p>
 We're going to close the ticket now by clicking "status" and then changing the staus to "closed"
 
