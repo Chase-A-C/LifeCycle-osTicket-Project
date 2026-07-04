@@ -29,73 +29,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3> Stage 1 - Ticket Submission:<h3></h3>
    <p></p>
-The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their E-mail address, name and then choose a help topic from the drop down list.
+The ticket lifecycle starts with the "ticket submission" where a user submits a support ticket filling in their e-mail address and name, then the user will choose a help topic from the drop down list.
 
 ![photo1](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto1.png)
 
 The user will then give an "issue summary" to the best of their ability, in this case the online banking system is down and users are unable to access online banking.
-The user will then submit the ticket.
+<br> 
+The user will then click create ticket.
 ![photo2](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/4d5025fcf7f35f44528f7e4bb15625276ad53ed0/projectphoto2.png)
 
-
-
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 2 - Logging in as Help Desk Agent (read only):<h3></h3> 
-    <p></p>
-The Agent, John, will log in with his credentials from the Help Desk Agent Access Portal
-
-   ![photo4](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto4.png)
-
-Once John is logged in, osTicket will show a dashboard of open tickets of varying priority determined by the employer SLA (Service Level Agreement) that need to be worked and resolved. 
-<br>
-We're going to click on the most recent ticket created by Karen.
-![photo5](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto5.png)
-
-After clicking on the ticket, it will show some more detailed information such as its priority level, status, SLA level, topic etc...
-<br>
-(You'll notice these are just black text and not blue)
-<br>
-John has read-only access, so he's not able to change these or escalate them, however we're gonna leave a note on the ticket that it needs to be updated.
-![photo6](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto6.png)
-
-Once this is submitted, you'll see the ticket thread has been updated.
-![photo7](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto7.png)
-
-
----------------------------------------------------------------------------------------------------
-
-<h3> Stage 3 - Logging in is as Help Desk Agent to resolve the ticket (Administrator):<h3></h3>
+<h3> Stage 2 - Logging in as a Help Desk Agent to resolve the ticket:<h3></h3>
    <p></p>
-We're goning to log in as an Administrator now because they have more access to help resolve the ticket.
+We're going to log in as an Administrator.
 <br>
-We could also give John more access as an alternative option.
 
    ![photo8](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto8.png)
 
-You'll see mostly the same information with any updates to the ticket that were made. 
+You'll see information with any updates to the ticket that were made. 
 <br>
-We also as an Administrator have more access so you'll notice the additional option via the Blue colored text that was black text for John.
+We as an Administrator also have more access.
 <br>
-We're gonna change some things to help the process of working the ticket starting with the "Priority level".
+We're going to change some information on the ticket to help the process of working the ticket starting with the "Priority level".
 ![photo9](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto9.png)
 
-We'll change it to Emergency Level becuase it's affecting regular day-to-day business operations for employees and most importantly Account holders who are unable to
- access their accounts. 
-![photo10](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto10.png)
-
-We're also going to assign it to our Administrator Chase. 
+We need to update the priority so the ticket get's resolved as soon as possible.
+We'll change it to Emergency Level because it's affecting regular day-to-day business operations for employees and most importantly Account holders who are unable to access their accounts. 
 ![photo11](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto11.png)
 
-We need to update the priority so the ticket and thus the issue get's resolved as soon as possible.
-<br>
-We use Sev-A because it will mark it as top priority in the ticket system.
-![photo12](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto12.png)
+We're also going to assign it to our Administrator Chase. 
+![photo10](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto10.png)
 
-We're going to add a note as to why it was escalated. 
-![photo13](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto13.png)
-
-We are then going to return to the dashboard as Chase and update Karen letting her know we're working diligently on the issue and we'll notify her of any updates or progress.
+We are then going to return to the dashboard as Chase and update Karen letting her know we are working diligently on the issue and we'll notify her of any updates or progress.
 <br>
 We do this to keep our users up to date on a time-line or any issues that may arise in our investigation. 
 <br>
@@ -108,7 +74,7 @@ On the dashboard you'll see the update to the information posted successfully, a
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Stage 4 - Ticket Resolution:<h3></h3>
+<h3> Stage 3 - Ticket Resolution:<h3></h3>
    <p></p>
 Here we update Karen that our team has isolated the issue and are working on making an update to fix the issue
 
@@ -120,7 +86,7 @@ After we have fixed the issue, we let Karen know that we'll be pushing an update
 
 ---------------------------------------------------------------------------------------------------
 
-<h3> Step 5 - Ticket Closure:<h3></h3>
+<h3> Step 4 - Ticket Closure:<h3></h3>
 <p></p>
 We're going to close the ticket now by clicking "status" and then changing the staus to "closed"
 
@@ -147,5 +113,5 @@ I felt I hadn't gone into enough depth in the resolution and updated the message
 <br>
 ![photo21](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto21.png)
 
-Added as an update as I changed the closure type from "resolved" to "closed"
+Added as an update as I changed the closure type from "resolved" to "closed" as I'm unsure of the difference in the Help Desk system. 
 ![photo22](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto22.png)
