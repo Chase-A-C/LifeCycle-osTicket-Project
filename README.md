@@ -103,15 +103,3 @@ In this case the issue was resolved with an update restoring opperations.
 (This should be done in professional enviroments)
 <br>
 ![photo20](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto20.png)
-
-
----------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------
-Side note - Mistakes I made and thought may need fixed: 
- 
-I felt I hadn't gone into enough depth in the resolution and updated the message with a edit to the message
-<br>
-![photo21](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto21.png)
-
-Added as an update as I changed the closure type from "resolved" to "closed" as I'm unsure of the difference in the Help Desk system. 
-![photo22](https://github.com/Chase-A-C/LifeCycle-osTicket-Project/blob/20241c4ad2e7d2fae4865bfbd542b5446e16914a/projectphoto22.png)
